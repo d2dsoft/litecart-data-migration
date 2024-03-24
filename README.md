@@ -20,6 +20,7 @@
 - [Magento to LiteCart Migration](https://d2d-soft.com/litecart-migration/909-8391-magento-to-litecart-migration-tool.html#/72-entities-1000)
 - [MarketPress to LiteCart Migration](https://d2d-soft.com/litecart-migration/910-8392-marketpress-to-litecart-migration-tool.html#/72-entities-1000)
 - [OpenCart to LiteCart Migration](https://d2d-soft.com/litecart-migration/911-8393-opencart-to-litecart-migration-tool.html#/72-entities-1000)
+- [osCMax to LiteCart Migration](https://d2d-soft.com/litecart-migration/1190-11544-oscmax-to-litecart-migration-tool.html#/72-entities-1000)
 - [osCommerce to LiteCart Migration](https://d2d-soft.com/litecart-migration/912-8394-oscommerce-to-litecart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to LiteCart Migration](https://d2d-soft.com/litecart-migration/913-8395-oxid-eshop-to-litecart-migration-tool.html#/72-entities-1000)
 - [Prestashop to LiteCart Migration](https://d2d-soft.com/litecart-migration/914-8396-prestashop-to-litecart-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
